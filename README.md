@@ -1,2 +1,5 @@
 # hello-world
-my first project cat github.
+my first project at github.
+
+Author: dxx
+Date: 2018-01-18
